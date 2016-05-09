@@ -1,5 +1,5 @@
 # Introduction-to-R-for-Data-Science
 ##Introduction to R for Data Science
-I want to welcome you to DAT204x: Introduction to R for Data Science. My name is Jonathan Sanito. I work as a content developer for Microsoft, and I'll be your host for this course. Microsoft is partnering with DataCamp, an online data science school, to create and deliver this course. We're very excited to have you join us and we hope you enjoy this course to as you begin your journey with R, the popular programming language for data science and statistics.
-To help ensure that your learning experience is good, please note that this course is an introductory course, which is designed for beginners or those new to R. This course will help you master the basics of R. You will learn R's basic syntax, variables and basic operations. You will learn how to handle data structures such as vectors, matrices, data frames and lists. In the final section, you will learn about the graphical capabilities of R. Should you want to go deeper, please watch out for future courses from Microsoft and edX on R.
-To get started, view the Course page and view the topics in Module 0: Start Here, which will help you learn how to navigate the course content and get oriented with what to expect.
+ This summary contains information about the course of edx DAT204x: Introduction to R for Data Science, for Jonathan Sanito.
+ 
+ Sanito works as a content developer for Microsoft. Microsoft is partnering with DataCamp, an online data science school, to create and deliver this course. We're very excited to have you join us and we hope you enjoy this course to as you begin your journey with R, the popular programming language for data science and statistics.
